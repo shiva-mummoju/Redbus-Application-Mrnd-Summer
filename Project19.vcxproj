@@ -65,7 +65,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Source.cpp" />
-    <ClCompile Include="Source1.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="clientUtil.h" />
